@@ -11,7 +11,7 @@ I am Ruihang Liu, a student from Boston University currently pursuing a Bachelor
 
 - 🔭 I’m currently working on a social media application for filmlovers.
 - 🌱 I’m currently learning/exploring Flutter.
-- 👯 I’m looking to collaborate on any software devel
+- 👯 I’m looking to collaborate on any CRUD application/database/distributed system projects.
 - 🤔 I’m looking for software development/engineering internship 2022/2023.
 
 Find out more about me & feel free to connect with me here:
