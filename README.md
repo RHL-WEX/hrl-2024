@@ -7,7 +7,7 @@
 
 ### Hi:
 
-I am Ruihang Liu, a student from Boston University currently pursuing a Bachelor of Art/Master of Science joint degree.
+I am Ruihang Liu, a student from Boston University currently pursuing a Bachelor of Art/Master of Science joint degree in Computer Science.
 
 - 🔭 I’m currently working on a social media application for filmlovers.
 - 🌱 I’m currently learning/exploring Flutter.
