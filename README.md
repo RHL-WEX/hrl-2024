@@ -52,7 +52,7 @@ Find out more about me & feel free to connect with me here:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hrl-2024&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=hrl-2024&count_private=true&show_icons=true&include_all_commits=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrl-2024&hide=TeX&layout=compact&theme=radical)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hrl-2024)
