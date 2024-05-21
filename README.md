@@ -1,8 +1,11 @@
 # Ruihang Liu
 
 Computer Science student at Boston University;
+
 AI, Embedded Systems, Backend system design, Distributed systems, Streaming System, DBMS;
+
 Android, iOS, React, Flutter, UIUX
+
 Looking for summer internship position 2024, Coop Fall 2024, Full time 2025
 
 
