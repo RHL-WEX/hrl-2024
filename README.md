@@ -1,8 +1,9 @@
 # Ruihang Liu
 
-- What I learn👨‍🎓: Computer Science, the intersection of logic, arts, and magic, the force that power our daily life.
-- What I love❤️: demystifying the magic that moves ones and zeroes around the global in the blink of an eye.
-- What I am trying to do🤞: master the computer science magic and open the doorway to the future.
+Computer Science student at Boston University;
+AI, Embedded Systems, Backend system design, Distributed systems, Streaming System, DBMS;
+Android, iOS, React, Flutter, UIUX
+Looking for summer internship position 2024, Coop Fall 2024, Full time 2025
 
 
 ### Hi:
@@ -12,7 +13,7 @@ I am Ruihang Liu, a student from Boston University currently pursuing a Bachelor
 - 🔭 I’m currently working on a social media application for filmlovers.
 - 🌱 I’m currently learning/exploring Android system and application.
 - 👯 I’m looking to collaborate on any CRUD application/database/distributed system projects.
-- 🤔 I’m looking for software development/engineering internship 2022/2023.
+- 🤔 I’m looking for software development/engineering internship or Coop 2024 or Full time 2025.
 
 Find out more about me & feel free to connect with me here:
 
