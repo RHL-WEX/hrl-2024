@@ -13,9 +13,9 @@ I’m Ruihang Liu (pronounced “Ray-Hung Leo”), a soon-to-be graduate in Comp
 ### 🛠 Technical Skills and Experience
 
 I’ve honed my skills in developing efficient, fault-tolerant systems through both academic projects and industry internships. My experience includes:
-	•	Building a RESTful API service layer from scratch for MovieDate, with detailed documentation that streamlined frontend-backend collaboration.
-	•	Optimizing large datasets and minimizing response times from minutes to seconds for iQiyi using a custom, multi-threaded MapReduce-inspired solution.
-	•	Developing robust, networked systems with SQL databases, Flask, Spring Boot, and Docker in Unix/Linux environments.
+* Building a RESTful API service layer from scratch for MovieDate, with detailed documentation that streamlined frontend-backend collaboration.
+* Optimizing large datasets and minimizing response times from minutes to seconds for iQiyi using a custom, multi-threaded MapReduce-inspired solution.
+* Developing robust, networked systems with SQL databases, Flask, Spring Boot, and Docker in Unix/Linux environments.
 
 ### 🌐 Real-World Problem Solver
 
