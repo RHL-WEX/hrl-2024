@@ -1,24 +1,33 @@
 # Ruihang Liu
 
-Computer Science student at Boston University;
+🎓 Computer Science Graduate | Boston University (Bachelor’s + Master’s in Dec ’24)
+👨‍💻 Software Engineer with a Passion for Distributed Systems, Embedded Systems, Cloud and Scalable Solutions
 
-AI, Embedded Systems, Backend system design, Distributed systems, Streaming System, DBMS;
-
-Android, iOS, React, Flutter, UIUX
-
-Looking for summer internship position 2024, Coop Fall 2024, Full time 2025
+Looking for Full time 2025
 
 
 ### Hi:
 
-I am Ruihang Liu, a student from Boston University currently pursuing a Bachelor of Art/Master of Science joint degree in Computer Science.
+I’m Ruihang Liu (pronounced “Ray-Hung Leo”), a soon-to-be graduate in Computer Science from Boston University, where I’ve developed deep expertise across a range of technical disciplines—including distributed systems, backend development, scalable API design, and full-stack applications.
 
-- 🔭 I’m currently working on a social media application for filmlovers.
-- 🌱 I’m currently learning/exploring Android system and application.
-- 👯 I’m looking to collaborate on any CRUD application/database/distributed system projects.
-- 🤔 I’m looking for software development/engineering internship or Coop 2024 or Full time 2025.
+### 🛠 Technical Skills and Experience
 
-Find out more about me & feel free to connect with me here:
+I’ve honed my skills in developing efficient, fault-tolerant systems through both academic projects and industry internships. My experience includes:
+	•	Building a RESTful API service layer from scratch for MovieDate, with detailed documentation that streamlined frontend-backend collaboration.
+	•	Optimizing large datasets and minimizing response times from minutes to seconds for iQiyi using a custom, multi-threaded MapReduce-inspired solution.
+	•	Developing robust, networked systems with SQL databases, Flask, Spring Boot, and Docker in Unix/Linux environments.
+
+### 🌐 Real-World Problem Solver
+
+From internships to hackathons, I’ve tackled real-world engineering challenges and optimized solutions. I’m proficient in Python, Go, and Java, and am currently sharpening my skills in runtime analysis and dynamic programming techniques to ensure my code is both effective and scalable.
+
+### 🚀 Future Aspirations
+
+I’m especially excited about opportunities in cloud computing, distributed systems, and carbon-reducing technology—sectors where my technical skills and adaptability can make a real impact. My recent engagements with companies like Crusoe and Tailscale have only strengthened my drive to work on projects with meaningful implications, whether through efficient resource use or innovative applications in cloud infrastructure.
+
+### 📫 Let’s Connect!
+
+If you’re looking for a proactive, solution-focused developer, feel free to reach out! I’m eager to connect with industry professionals and explore opportunities that allow me to grow and contribute as a Software Engineer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-ruihangliu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://linkedin.com/in/ruihang-liu/)
 [![Gmail Badge](https://img.shields.io/badge/-hrl@bu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hrl@bu.edu)](mailto:hrl@bu.edu)
