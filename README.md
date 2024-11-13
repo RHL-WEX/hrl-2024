@@ -1,6 +1,7 @@
 # Ruihang Liu
 
 🎓 Computer Science Graduate | Boston University (Bachelor’s + Master’s in Dec ’24)
+
 👨‍💻 Software Engineer with a Passion for Distributed Systems, Embedded Systems, Cloud and Scalable Solutions
 
 Looking for Full time 2025
