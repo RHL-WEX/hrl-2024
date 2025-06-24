@@ -1,15 +1,13 @@
 # Ruihang Liu
 
-🎓 Computer Science Graduate | Boston University (Bachelor’s + Master’s in Dec ’24)
-
+🎓 Computer Science Graduate | Boston University (Bachelor’s + Master’s in Jan ’25)
 👨‍💻 Software Engineer with a Passion for Distributed Systems, Embedded Systems, Cloud and Scalable Solutions
-
-Looking for Full time 2025
+👨‍💻 A WEXer
 
 
 ### Hi:
 
-I’m Ruihang Liu (pronounced “Ray-Hung Leo”), a soon-to-be graduate in Computer Science from Boston University, where I’ve developed deep expertise across a range of technical disciplines—including distributed systems, backend development, scalable API design, and full-stack applications.
+I’m Ruihang Liu (pronounced “Ray-Hung Leo”), a recent graduate in Computer Science from Boston University, where I’ve developed deep expertise across a range of technical disciplines—including distributed systems, backend development, scalable API design, and full-stack applications.
 
 ### 🛠 Technical Skills and Experience
 
