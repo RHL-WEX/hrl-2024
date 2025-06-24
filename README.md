@@ -1,7 +1,9 @@
 # Ruihang Liu
 
 🎓 Computer Science Graduate | Boston University (Bachelor’s + Master’s in Jan ’25)
+
 👨‍💻 Software Engineer with a Passion for Distributed Systems, Embedded Systems, Cloud and Scalable Solutions
+
 👨‍💻 A WEXer
 
 
