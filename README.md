@@ -67,9 +67,9 @@ If you’re looking for a proactive, solution-focused developer, feel free to re
 
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=hrl-2024&count_private=true&show_icons=true&include_all_commits=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrl-2024&hide=TeX&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHL-WEX&hide=TeX&layout=compact&theme=radical)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hrl-2024)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RHL-WEX)
 
 <!--
 **hrl-2024/hrl-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
